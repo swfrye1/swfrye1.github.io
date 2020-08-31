@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sam's Personal Website!
 
 You can use the [editor on GitHub](https://github.com/swfrye1/swfrye1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
