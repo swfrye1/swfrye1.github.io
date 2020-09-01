@@ -5,6 +5,7 @@ This site exists so that you, the reader, may learn a little about me
 ![Sam!](Parachute_Standing.jpg)
 
 Below are where you can find my social media:
+
 -[Instagram](https://instagram.com/swfrye1)
 -[Youtube](https://youtube.con/swfrye1)
 
