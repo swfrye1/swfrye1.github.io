@@ -2,7 +2,7 @@
 
 This site exists so that you, the reader, may learn a little about me
 
-![Sam!]()
+![Sam!](Parachute_Standing.jpg)
 
 
 
