@@ -2,6 +2,14 @@
 
 This site exists so that you, the reader, may learn a little about me
 
+![Sam!]()
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
