@@ -6,8 +6,8 @@ This site exists so that you, the reader, may learn a little about me
 
 Below are where you can find my social media:
 
--[Instagram](https://instagram.com/swfrye1)
--[Youtube](https://youtube.con/swfrye1)
+- [Instagram](https://instagram.com/swfrye1)
+- [Youtube](https://www.youtube.com/channel/UCgCpQ18I3WhWRSPX8O854iw/featured)
 
 
 
